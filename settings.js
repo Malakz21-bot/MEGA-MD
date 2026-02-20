@@ -1,13 +1,13 @@
 const settings = {
   prefixes: ['.', '!', '/', '#'], // Multiple prefix support you can add one or more
-  packname: 'MEGA-MD',
+  packname: 'MALAKZ-MD',
   author: '‎GlobalTechInfo',
   timeZone: 'Asia/Karachi',
-  botName: "MEGA-MD", // your bot name
-  botOwner: 'Qasim Ali', // set your name
-  ownerNumber: '923051391007', // Set your number here without + symbol, just add country code & number without any space
+  botName: "MALAKZ-MD", // your bot name
+  botOwner: 'Malakz Emmy', // set your name
+  ownerNumber: '256763849079', // Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "private",
   maxStoreMessages: 20,
   tempCleanupInterval: 1 * 60 * 60 * 1000, // 1 hours
   storeWriteInterval: 10000,
